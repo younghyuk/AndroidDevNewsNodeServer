@@ -1,0 +1,16 @@
+{
+  "name": "android_dev_news_node_server",
+  "version": "1.0.0",
+  "description": "AndroidDevNews Project Server On Node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dynatic",
+  "license": "MIT",
+
+  "dependencies": {
+    "express": "^4.15.3",
+    "connect": "^3.6.2"
+  }
+}
